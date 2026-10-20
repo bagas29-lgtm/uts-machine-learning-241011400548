@@ -2,7 +2,7 @@
 
 - Nama: Bagas Arief Pratama
 - NIM: 241011400548
-- Kelas: Reg C
+- Kelas: Reg B
 - random_state: 48 (2 digit terakhir NIM)
 
 ## Isi Repositori
